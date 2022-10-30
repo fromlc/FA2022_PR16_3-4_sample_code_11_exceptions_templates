@@ -29,5 +29,8 @@
     <ClCompile Include="Rectangle_source\Rectangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pr16-8_source\Pr16-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

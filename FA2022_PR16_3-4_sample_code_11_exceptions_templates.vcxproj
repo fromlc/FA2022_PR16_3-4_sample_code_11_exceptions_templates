@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pr16-8_source\Pr16-8.cpp" />
+    <ClCompile Include="Pr16-3_source\Pr16-3.cpp" />
     <ClCompile Include="Pr16-LRC_source\input_util.cpp" />
     <ClCompile Include="Rectangle_source\Rectangle.cpp" />
   </ItemGroup>
